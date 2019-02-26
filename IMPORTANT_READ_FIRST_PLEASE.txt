@@ -1,0 +1,25 @@
+Hey there, Rittwik Devdatta Das here.
+
+** PLEASE READ ALL LINE BY LINE, MY HUMBLE REQUEST **
+
+Currently, I am studying in 12th Class and only after some few days my CBSE Boards are going to be held.
+
+Honestly, the only purpose of writing this important note, that before you judge me, that after clearing the first round today, due to my hectic schedule of study, I could barely manage those crucial 45 mins, out of my schedule and still gave the online assessment and at last qualified for the 2nd level.
+
+So, I haven't had the time to complete the program given by you i.e. based on adaptive learning due to spending of intense crucial time before and during the boards. I have also to read the whole cbse syllabus, so there wasn't any time available for writing the adaptive learning code. Also, the program given by you was way complex, and out of my standard. I couldn't manage my time for the code, which could take a few hours.
+
+I believed that I should have tried attempting the program, but what could be of that use when my program was ultimately not going to execute as it could be due to either complexity errors or half written code due to time shortage.
+
+But, still I am sending you a different code which I had done for my school project on the topic "FC Barcelona- Team management" which I had all by myself created, executed and ran the program. It is much more related to your algorithm as it also uses the Binary Data file algorithm for storing the records and other cool and ncessary functions.
+
+In the program of team management made by myself, I had wrote various functions such as ADDING PLAYER DETAILS, VIEWING THE ENTERED PLAYER DETAILS, SEARCHING THE PLAYERS BY THEIR DETAILS, UPDATING THE DETAILS OF PLAYERS AND DELETING THE DETAILS OF THE PLAYERS and also created a beautiful custom made home page of FCB logo which you would be ultimately seeing the .exe file.
+
+I assure you that this code has been completely written by me and it is all my hard work that you would see as its much related to the algorithm of the code for the adaptive learning you have sent for the 2nd round as they both use database concept of storing records.
+
+I know that this would ultimately lead to disqualification, also I have no worries for that, as I haven't written the required code for 2nd level. But I assure you that this is also a very beautifully written and high functional code as you can do many things mentioned above.
+
+PLEASE, I WOULD BE MUCH OBLIGED  AND REQUEST YOU IF YOU SEE THE EXECUTABLE CODE PROVIDED IN THIS .RAR FILE AND GIVE ME FEEDBACK, CORRECTIONS AND ADVICE REGARDING MY PROGRAM.
+
+I would be waiting for the feedback and reply for this program written by me from yourside.
+
+PLEASE REPLY FOR THE FEEDBACK ASAP. THANKING YOU SO MUCH IN ADVANCE. And sorry for inconvienience caused by me :( regrets. Hope you will reply after seeing the execution.  :)
